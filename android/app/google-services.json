@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773065340010",
+    "project_id": "playlist-6248f",
+    "storage_bucket": "playlist-6248f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773065340010:android:cf790276f46ef7a9de4613",
+        "android_client_info": {
+          "package_name": "com.example.playlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773065340010-sjrt9cdvgmogta6m5p3dq3t8q6nv27ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCnmFdNnMm9JLKcqEp7lwSrQh6m2-Pcao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773065340010-sjrt9cdvgmogta6m5p3dq3t8q6nv27ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
